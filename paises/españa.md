@@ -12,6 +12,10 @@ euro
 español
 **estaciones:**
 si
+**movilidad:**
+mucho mejor que medellin el trasporte publico y baratos en proporcion y se puede caminar a pie por que las montañas son pequeñas
+**diferencia horaria.**
+6 a 5 horas
 
 ##requesitos
 

@@ -18,6 +18,10 @@ si va a paises que hablan otro idioma diferente a español y ingles y uds solo s
 
 si le interesa practicar el idioma, ir solo puede ser buena idea
 
+#### ¿escogo materias de eafit o de la U destino?
+
+de eafit, si te interesa alguna de la universidad destico cogela como optativa
+
 #### ¿El precio del intecambio puede ser afectado por un pasaporto o algo que baje el precio de la universidad destino?
 
 #### Tener pasaporte,visa o nacionalidad ayuda en la U?:
