@@ -14,6 +14,6 @@ reseñas y observaciones
 
 mayormente estudiantes de ing sistemas
 
-## donde hago preguntas que no se ?
+## donde hago preguntas en eafit ?
 
-a la ori de eafit https://www.eafit.edu.co/international/esp/ori-eafit/Paginas/Servicios.aspx
+a la ori(oficina de relaciones  internacionales) de eafit https://www.eafit.edu.co/international/esp/ori-eafit/Paginas/Servicios.aspx

@@ -2,8 +2,13 @@
 
 ## caracteristicas
 
-**convenio:si**
-**perfil profecional en comparacion a eafit
+**convenio:**
+
+si
+
+**perfil profecional en comparacion a eafit:*
+
+normal
 
 ## costo de vida
 
@@ -12,6 +17,11 @@
 720€ aproximado por mes 
 ## el lugar y la ciudad 
 
+ * tiene mar al lado
+ * una ciudad pequeña
+ * terreno mayomente plaono
+ * clima templado
+
 ## para los de ingenieria de sistemas
 
 se ve que trabajan mucho con c#,c++ y java,es buen lugar para aprender bio informatica,segun los proyectos de github y profecionales
@@ -19,6 +29,8 @@ se ve que trabajan mucho con c#,c++ y java,es buen lugar para aprender bio infor
 https://github.com/search?p=2&q=universidad+cadiz&type=Repositories
 
 https://yaq.es/carreras-universitarias/uca-universidad-de-cadiz/15697-grado-ingenieria-informatica
+
+https://esingenieria.uca.es/docencia/grados/gii/planificacion-de-la-ensenanza/
 
 ## para los de administracion
 

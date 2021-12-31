@@ -28,7 +28,9 @@ si la universidad destino tiene convenio con eafit, sale al precio de la beca el
 
 #### por que eafit tiene mas reposiotorios en github que muchas otras universidades?esta medida para ver si la U es buena o no?
 
-Eafit usa github como mecanismo para ser publicitado y entragar trabajos, le recomiendo que tome otra universidad de referencia para hacer la comparacion  
+Eafit usa github como mecanismo para ser publicitado y entragar trabajos, le recomiendo que tome otra universidad de referencia para hacer la comparacion
+
+#### ¿se puede acceder a becas en las universidades destino?
 
 #### ¿El precio del intecambio puede ser afectado por un pasaporto o algo que baje el precio de la universidad destino?
 
