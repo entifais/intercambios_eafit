@@ -9,16 +9,21 @@
 
 260€ promedio habitacion
 12€ comida restaurante
+720€ aproximado por mes 
+## el lugar y la ciudad 
 
-## el lugar y la ciudad
-
-## para los de sistemas
+## para los de ingenieria de sistemas
 
 se ve que trabajan mucho con c#,c++ y java,es buen lugar para aprender bio informatica,segun los proyectos de github y profecionales
 
 https://github.com/search?p=2&q=universidad+cadiz&type=Repositories
 
 https://yaq.es/carreras-universitarias/uca-universidad-de-cadiz/15697-grado-ingenieria-informatica
+
+## para los de administracion
+
+## para los de psicologia
+## para los de ingenieria matematica
 
 ## enalces
 

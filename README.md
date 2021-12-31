@@ -13,3 +13,7 @@ reseñas y observaciones
 ## para quienes es este repo?
 
 mayormente estudiantes de ing sistemas
+
+## donde hago preguntas que no se ?
+
+a la ori de eafit https://www.eafit.edu.co/international/esp/ori-eafit/Paginas/Servicios.aspx
