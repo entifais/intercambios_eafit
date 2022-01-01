@@ -7,11 +7,11 @@
 
 ## costo de vida
 
-* arriendo
+* €arriendo
 
-* comida normal
+* €comida normal
 
-* precio por mes
+* €precio por mes
 
 ## el lugar y la ciudad
 * tamaño de la ciudad

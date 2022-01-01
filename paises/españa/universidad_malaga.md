@@ -30,6 +30,8 @@ normal , un poco mas enfocados
 
 se tienen trabajos muy diversos,en lenguajes de programacion y tecnoligias diversas(no hay un enfoque claro), tienen mas proyectos visibles que las u de cadiz y nerbija
 
+entro en las mejores 500 universidades a nivel mundual de computer science,puesto 457
+
 https://github.com/search?q=universidad+malaga&type=repositories
 
 https://www.uma.es/etsi-informatica/info/72074/grado-ing-informatica-guias-docentes/

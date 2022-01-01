@@ -15,7 +15,7 @@ si
 **movilidad:**
 mucho mejor que medellin el trasporte publico y baratos en proporcion y se puede caminar a pie por que las montañas son pequeñas
 **diferencia horaria.**
-6 a 5 horas
+6 a 5 horas adelantadas
 
 ##requesitos
 
@@ -55,6 +55,6 @@ con pasaporte solo se nesesita tarjeta sanitaria de europa
 ### ventajas
 ### desventajas
 
-## opciones validas
+## Becas 
 
- * universidad salamanca https://www.usal.es
+https://www.fundacioncarolina.es

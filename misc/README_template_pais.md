@@ -19,6 +19,4 @@
 ### ventajas
 ### desventajas
 
-##disponiblidad para los de sistemas
-
- - universidad cadiz uca.es
+## becas
