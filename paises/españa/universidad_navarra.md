@@ -3,8 +3,11 @@
 ## caracteristicas
 
 **convenio:**
+
 no
+
 **perfil profecional en comparacion a eafit:**
+
 muy similares
 
 ## costo de vida
@@ -24,9 +27,9 @@ muy similares
 ## para los de sistemas
 
 lo que tienen montado en github es bueno,la mayoria de tienen copyrithh,parece muy bueno para computers science,
-hay abundate  python,c++
+hay abundate  python,c++.
 https://github.com/search?q=universidad+navarra&type=repositories
-hya infomracion restrinjida en publicacion de sofware 
+hay infomracion restrinjida en publicacion de sofware 
 
 pensum
 https://www.unavarra.es/sites/grados/informatica-y-telecomunicacion/ingenieria-informatica/asignaturas-y-profesorado.html

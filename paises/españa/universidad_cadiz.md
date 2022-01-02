@@ -6,7 +6,7 @@
 
 si
 
-**perfil profecional en comparacion a eafit:*
+**perfil profecional en comparacion a eafit:**
 
 normal
 

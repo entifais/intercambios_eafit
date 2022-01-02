@@ -7,7 +7,7 @@
 
 ## costo de vida
 
-* €arriendo
+* €promedio habitacion
 
 * €comida normal
 
