@@ -17,3 +17,5 @@ mayormente estudiantes de ing sistemas
 ## donde hago preguntas en eafit ?
 
 a la ori(oficina de relaciones  internacionales) de eafit https://www.eafit.edu.co/international/esp/ori-eafit/Paginas/Servicios.aspx
+
+[video](https://www.youtube.com/watch?v=gu44drAUQiM)

@@ -2,22 +2,28 @@
 
 ## convenios eafit
 
-### españa para sistemas? 
-  * salamanca https://www.usal.es
-
-###caracteristicas
+### caracteristicas
 **moneda:**
+
 euro
+
 **idioma:**
+
 español
+
 **estaciones:**
+
 si
+
 **movilidad:**
+
 mucho mejor que medellin el trasporte publico y baratos en proporcion y se puede caminar a pie por que las montañas son pequeñas
+
 **diferencia horaria.**
+
 6 a 5 horas adelantadas
 
-##requesitos
+## requesitos
 
 (tenga encuenta el covid)
 
