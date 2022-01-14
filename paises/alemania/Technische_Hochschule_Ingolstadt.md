@@ -23,6 +23,7 @@ aparentan ser mas tesos
 
 * mayormente frio (tenga en cuenta estaciones)
 ## para los de sistemas
+
 tiene una facultad completa de cs
 https://www.thi.de/en/international/studies/degree-programmes
 
